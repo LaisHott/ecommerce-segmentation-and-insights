@@ -51,12 +51,16 @@ Este projeto tem como objetivo segmentar os clientes da **Everything Plus** com 
 
 ## 📁 Estrutura de Diretórios
 
-`bash
 📦 ecommerce-segmentation-and-insights/
+
 ├── data/                  # Dados brutos
+
 ├── notebooks/             # Jupyter Notebooks com análises
+
 ├── dashboard/             # Arquivo .twbx do Tableau
+
 ├── presentation/          # Apresentação em PDF
+
 └── README.md              # Este arquivo`
 
 ---
