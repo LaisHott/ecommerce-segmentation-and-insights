@@ -53,13 +53,9 @@ Este projeto tem como objetivo segmentar os clientes da **Everything Plus** com 
 
 📦 ecommerce-segmentation-and-insights/
 
-├── data/                  # Dados brutos
+├── datasets/                # Dados brutos
 
 ├── notebooks/             # Jupyter Notebooks com análises
-
-├── dashboard/             # Arquivo .twbx do Tableau
-
-├── presentation/          # Apresentação em PDF
 
 └── README.md              # Este arquivo`
 
