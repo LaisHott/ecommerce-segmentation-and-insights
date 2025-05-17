@@ -75,4 +75,9 @@ Este projeto tem como objetivo segmentar os clientes da **Everything Plus** com 
 
 --- 
 
- 
+ ## 📁 Apresentação
+
+A apresentação final com conclusões e recomendações está disponível no link abaixo:
+
+📎 [Clique aqui para acessar o PDF](https://docs.google.com/presentation/d/1v8eDnTXpo0AbDvaHBQigbMmcCi3iBHAV/edit?usp=sharing&ouid=106362784013593286154&rtpof=true&sd=true)
+
